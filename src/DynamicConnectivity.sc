@@ -12,7 +12,7 @@ object DynamicConnectivity {
     }
     pXX
   }                                               //> root: (pX: Int)Int
-  
+   
   def union(pA: Int, pB: Int){
     val rootPA = root(pA)
     val rootPB = root(pB)
