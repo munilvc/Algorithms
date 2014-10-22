@@ -1,4 +1,4 @@
-object DynamicConnectivity {
+object DynamicConnectivity_QuickUnion {
   println("Dynamic Connectivity: Set of objects which can be connected. Be able to determine if an object is connected to other.")
                                                   //> Dynamic Connectivity: Set of objects which can be connected. Be able to dete
                                                   //| rmine if an object is connected to other.
